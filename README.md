@@ -8,10 +8,12 @@ For that project I used my knowlege of Java Script, Html, CSS, and Bootstarp. In
 First I prepared a table with HTML (index.html) to be ready to run the js code and filter the data in the fields. The data was ready in the data.js file.
 
 Results:
-- The table is ready to (yayinlamak). People who are interested in Ufo's can analyze it from that table.
+I've prepared a user friendly tool to search the data.The variables of filtering are date, city, state, country, shape, duration and command. For now it can be filtered by Date, City, State, Country and Shape.
+1- You can find the filtered tables below. You will see at that tables that  
+2- 
 - The fields (analiz edilebilecek) are:
   Date, City, State, Country and Shape.
--
+- 
 Althought when we think about UFO's we think about circle shapes because of the movies, people who see circle shapes are not the majority.
 
 There is a description of how to perform a search, with images. (4 pt)
