@@ -1,8 +1,11 @@
 # UFO_Analysis
 ## Overview of the analysis
 
-The purpose of this analysis is to understand where and when Ufo's are seen more. Besides to make this analize visible I did that with JavaScript and HTML.
-First I prepared the HTML page to be able to do a good table for the fronthand. Then I wrote th js cone in the .....file.
+The purpose of this analysis is to understand where and when Ufo's are seen more. In this project I helped Dana. Dana is a data journalist end she writes an article about UFO sightseings at her hometown McMinnville, Oregon.
+Wiht Dana we wanted to make a dinamic webpage to make the data available for people who are interested.
+For that project I used my knowlege of Java Script, Html, CSS, and Bootstarp. In addition, I alse used ChromeDev tools to test the code.
+
+First I prepared a table with HTML (index.html) to be ready to run the js code and filter the data in the fields. The data was ready in the data.js file.
 
 Results:
 - The table is ready to (yayinlamak). People who are interested in Ufo's can analyze it from that table.
