@@ -9,8 +9,10 @@ First I prepared a table with HTML (index.html) to be ready to run the js code a
 
 Results:
 I've prepared a user friendly tool to search the data.The variables of filtering are date, city, state, country, shape, duration and command. For now it can be filtered by Date, City, State, Country and Shape.
-1- You can find the filtered tables below. You will see at that tables that  
-2- 
+
+1- You can find the filtered tables below. You will see at that those tables has every other fields to understand the data selected. 
+2- In order to search with more than one variable you can filter as meny field you want. As you see at the picture.......
+
 - The fields (analiz edilebilecek) are:
   Date, City, State, Country and Shape.
 - 
