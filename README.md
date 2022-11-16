@@ -1,9 +1,9 @@
 # UFO_Analysis
 ## Overview of the analysis
 
-This analysis aims to understand where and when Ufo's are seen more. In this project, I helped Dana. Dana, a data journalist, writes an article about UFO sightings in her hometown McMinnville, Oregon.
-We wanted to prepare a dynamic webpage with Dana to make the data available to interested people.
-I used my knowledge of JavaScript, Html, CSS, and Bootstrap for that project. In addition, I also used ChromeDev tools to test the code.
+This analysis aims to understand where and when UFO's are seen more. In this project, I helped Dana, a data journalist. Dana writes an article about UFO sightings in her hometown McMinnville, Oregon.
+We wanted to prepare a dynamic webpage with Dana, to make the data available to interested people.
+I used my knowledge of JavaScript, HTML, CSS, and Bootstrap for the project. In addition, I also used ChromeDev tools to test the code.
 
 First, I prepared a table with HTML (index.html) to run the js code and filter the data in the fields. The data was already in the data.js file.
 <p align="center">
@@ -13,7 +13,7 @@ First, I prepared a table with HTML (index.html) to run the js code and filter t
 
 ## Results:
 
--  I've prepared a user-friendly tool to search the data. The filtering criteria are "date, city, state, country, shape, duration and command. It can be filtered by Date, City, State, Country and Shape.
+-  I've prepared a user-friendly tool to search the data. The filtering criteria are "date, city, state, country, shape, duration and command". It can be filtered by Date, City, State, Country and Shape.
 
 -  You can find the filtered tables below. You will see that those tables have every other field to understand the data selected. 
 <p align="center">
@@ -45,14 +45,14 @@ First, I prepared a table with HTML (index.html) to run the js code and filter t
   
 ## Summary:
 This analysis is a perfect opportunity for people interested in UFO sightings.
-However, this page could be more appealing with interactivity. As it is not interactive and without pictures, it is not a presentable page.
+However, this page could be more appealing with interactivity. As it is not interactive and does not contain pictures, it is not a presentable page.
 
 My suggestions for improving this project are below:
 
--  There are no pictures or videos on that HTML page. We can add some pictures ad videos to the page. In addition, we can add some links to the web pages that are about UFO sightings.
+-  There are no pictures or videos on that HTML page. We can add some pictures and videos to the page. In addition, we can add some links to the web pages that are about UFO sightings.
 
--  I can add a new button that will open an interactive box to let people write their experiences with UFOs. We will add that data as well to the data page.
+-  I can add a new button that will open an interactive box to let people write their experiences with UFOs. 
 
--  To clean the multiple data and wrong spellings. So I have to write an additional cleaning code and run that code from time to time.
+-  To clean the multiple data and wrong spellings, I have to write an additional cleaning code and run that code from time to time.
 
 Thank you for giving me the opportunity of doing this project.
