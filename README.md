@@ -1,5 +1,6 @@
-# UFO_Analysis
+# UFO_Sightings
 ## Overview of the analysis
+### The Truth Is Out There
 
 This analysis aims to understand where and when UFO's are seen more. In this project, I helped Dana, a data journalist. Dana writes an article about UFO sightings in her hometown McMinnville, Oregon.
 We wanted to prepare a dynamic webpage with Dana, to make the data available to interested people.
