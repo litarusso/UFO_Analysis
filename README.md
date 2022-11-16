@@ -8,19 +8,19 @@ For that project I used my knowlege of Java Script, Html, CSS, and Bootstarp. In
 First I prepared a table with HTML (index.html) to be ready to run the js code and filter the data in the fields. The data was ready in the data.js file.
 
 Results:
-I've prepared a user friendly tool to search the data.The variables of filtering are date, city, state, country, shape, duration and command. For now it can be filtered by Date, City, State, Country and Shape.
 
--1- You can find the filtered tables below. You will see at that those tables has every other fields to understand the data selected. 
+- 1-I've prepared a user friendly tool to search the data.The criteria of filtering are "date, city, state, country, shape, duration and command". For now it can be filtered by Date, City, State, Country and Shape.
 
--2- In order to search with more than one variable you can filter as meny field you want. As you see at the picture.......
+- 2- You can find the filtered tables below. You will see that those tables has every other fields to understand the the data selected. You can select as many boxes as you want and write the new criteria in it.
 
-- The fields (analiz edilebilecek) are:
-  Date, City, State, Country and Shape.
-- 
-Althought when we think about UFO's we think about circle shapes because of the movies, people who see circle shapes are not the majority.
+- 3- In order to search with more than one criteria, you can select as many boxes as you want.
 
-There is a description of how to perform a search, with images. (4 pt)
 Summary:
+In summary, this analysis is a perfect oportunity for people who are interested in UFO sighting.
+However this page is not an appealing page because it is not interactive. We can't reach enough people with that. 
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+My suggestions about improving this project are below:
+- 1- At that html page there is no pictures or videos. We can add some pictures ad videos into the page. In addition we can add some links of the webpages who are about UFO sighting.
+- 2- I can ad a new button which will open an interactive box to let people write their own experience with Ufo's. We will ad that data as well to the data page.
+- 3- In order to clean the multiple data and wrong spellings. So I have to write an aditional cleaning code and run that code time to time.
+
