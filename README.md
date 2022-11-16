@@ -17,23 +17,24 @@ First, I prepared a table with HTML (index.html) to run the js code and filter t
 
 <p align="center">
   Table2: Filtered by Date
-<img width="200" alt="Screen Shot 2022-11-16 at 1 15 19 PM" src="https://user-images.githubusercontent.com/111788394/202260646-c2efedb0-5ba3-4d02-b07e-519e64e318ef.png">
+<p align="center">
+<img width="500" alt="Screen Shot 2022-11-16 at 1 15 19 PM" src="https://user-images.githubusercontent.com/111788394/202260646-c2efedb0-5ba3-4d02-b07e-519e64e318ef.png">
 <p align="center">
   Table3: Filtered by City
 <p align="center">
-<img width="100" alt="Screen Shot 2022-11-16 at 1 19 18 PM" src="https://user-images.githubusercontent.com/111788394/202261324-93c972b4-232c-424f-91e1-e803d673f333.png">"      
+<img width="500" alt="Screen Shot 2022-11-16 at 1 19 18 PM" src="https://user-images.githubusercontent.com/111788394/202261324-93c972b4-232c-424f-91e1-e803d673f333.png">
 <p align="center">
   Table4: Filtered by State
 <p align="center"> 
-<img width="100" alt="Screen Shot 2022-11-16 at 1 20 12 PM" src="https://user-images.githubusercontent.com/111788394/202261535-dd27fb7d-258e-4995-b957-3d65e6344b93.png">
+<img width="500" alt="Screen Shot 2022-11-16 at 1 20 12 PM" src="https://user-images.githubusercontent.com/111788394/202261535-dd27fb7d-258e-4995-b957-3d65e6344b93.png">
 <p align="center"> 
   Table5: Filtered by Country
 <p align="center"> 
-<img width="100" alt="Screen Shot 2022-11-16 at 1 21 11 PM" src="https://user-images.githubusercontent.com/111788394/202261655-71b3c0b5-be44-4415-8b7f-5935233be37c.png">"
+<img width="500" alt="Screen Shot 2022-11-16 at 1 21 11 PM" src="https://user-images.githubusercontent.com/111788394/202261655-71b3c0b5-be44-4415-8b7f-5935233be37c.png">
 <p align="center"> 
   Table6: Filtered by Shape
 <p align="center"> 
-<img width="100" alt="Screen Shot 2022-11-16 at 1 22 20 PM" src="https://user-images.githubusercontent.com/111788394/202261868-85e222cc-e10d-450a-8926-50bd3eaee11e.png">
+<img width="500" alt="Screen Shot 2022-11-16 at 1 22 20 PM" src="https://user-images.githubusercontent.com/111788394/202261868-85e222cc-e10d-450a-8926-50bd3eaee11e.png">
 
 
 
